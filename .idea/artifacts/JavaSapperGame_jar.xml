@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaSapperGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaSapperGame_jar</output-path>
+    <root id="archive" name="JavaSapperGame.jar">
+      <element id="module-output" name="JavaSapperGame" />
+    </root>
+  </artifact>
+</component>
